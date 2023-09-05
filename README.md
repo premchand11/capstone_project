@@ -33,11 +33,16 @@ We assessed the performance of both models using common evaluation metrics, incl
 
 #Repository Structure
 README.md: This file, providing an overview of the project.
-Train_Data.csv: The training dataset.
-Test_Data.csv: The test dataset.
-Cantone_pro.ipynb: The Jupyter Notebook containing the code for data loading, preprocessing, model building, and evaluation.
-data.csv: The CSV file containing predictions from the KNN model on the test dataset.
-dataNB.csv: Placeholder for predictions from the Multinomial Naive Bayes model.
+1.Train_Data.csv: The training dataset.
+
+2.Test_Data.csv: The test dataset.
+
+3.Capstone.ipynb: The Jupyter Notebook containing the code for data loading, preprocessing, model building, and evaluation.
+
+4.data.csv: The CSV file containing predictions from the KNN model on the test dataset.
+
+5.dataNB.csv: Placeholder for predictions from the Multinomial Naive Bayes model.
+
 #Usage
 If you wish to run this project locally, you can follow the code provided in the Cantone_pro.ipynb Jupyter Notebook. Ensure you have the required Python libraries installed.
 
