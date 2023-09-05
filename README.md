@@ -48,3 +48,8 @@ If you wish to run this project locally, you can follow the code provided in the
 
 #Conclusion
 This machine learning project showcases the process of building and evaluating predictive models for classification tasks. The models developed here can be used as a foundation for predicting the target variable 'pred' for new data points.
+[Train_Data (1).csv](https://github.com/premchand11/capstone_project/files/12523509/Train_Data.1.csv)
+[data.csv](https://github.com/premchand11/capstone_project/files/12523508/data.csv)
+[dataNB.csv](https://github.com/premchand11/capstone_project/files/12523501/dataNB.csv)
+[Test_Data (1).csv](https://github.com/premchand11/capstone_project/files/12523516/Test_Data.1.csv)
+
